@@ -31,5 +31,5 @@ namespace LifeSpot
                 endpoints.MapImages();
             });
         }
-    }
+    }//
 }
